@@ -1,0 +1,2 @@
+This is Text file.
+Used to demo of storing some values in the GIT Branch.
